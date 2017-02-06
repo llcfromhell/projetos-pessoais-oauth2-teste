@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # exemplo-oauth-2
 Projeto de exemplo para configuração de segurança OAuth2 em java.
 
@@ -58,3 +59,6 @@ Acesso a um recurso somente de admin (visitante nao pode):
 ```
 curl -X GET -H "Accept: application/json" -H "Authorization: Bearer e40b9d488fbbfc2730b94b1c2fe9c972" http://localhost:8080/exemplo-oauth2/endpoints/home/acesso/admin --verbose
 ```
+=======
+# projetos-pessoais-oauth2-teste
+>>>>>>> 33aaa55b76c89356757ddf4f4456b648ba625835
